@@ -1,0 +1,3 @@
+We are looking for a Python Developer with experience in Flask, REST APIs, and SQL databases. 
+Knowledge of data structures, OOP concepts, and debugging skills are required. 
+Familiarity with Git and cloud platforms (AWS or Azure) is a plus.
